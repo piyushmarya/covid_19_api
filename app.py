@@ -12,4 +12,4 @@ api.add_resource(CountryResource,'/country/<string:name>')
 api.add_resource(AllCountriesResource,'/world')
 
 if __name__ == "__main__":
-    app.run(int(os.environ.get("PORT"), debug=True))
+    app.run(int(os.environ.get("PORT")), debug=True)
