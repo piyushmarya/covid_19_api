@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from flask_restful import Api
 
@@ -11,4 +12,4 @@ api.add_resource(CountryResource,'/country/<string:name>')
 api.add_resource(AllCountriesResource,'/world')
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run(int(os.environ.get("PORT"), debug=True)
