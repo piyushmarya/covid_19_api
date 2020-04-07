@@ -1,0 +1,2122 @@
+{
+    "world": {
+        "total": "1,396,632",
+        "new": "+50,628",
+        "total_deaths": "79,506",
+        "new_deaths": "+4,852",
+        "total_recovered": "298,503",
+        "active": "1,018,623",
+        "serious": "47,780",
+        "total_tested": ""
+    },
+    "usa": {
+        "total": "385,838",
+        "new": "+18,834",
+        "total_deaths": "12,227",
+        "new_deaths": "+1,356",
+        "total_recovered": "21,311",
+        "active": "352,300",
+        "serious": "9,104",
+        "total_tested": "2,011,529"
+    },
+    "spain": {
+        "total": "140,511",
+        "new": "+3,836",
+        "total_deaths": "13,897",
+        "new_deaths": "+556",
+        "total_recovered": "43,208",
+        "active": "83,406",
+        "serious": "7,069",
+        "total_tested": "355,000"
+    },
+    "italy": {
+        "total": "135,586",
+        "new": "+3,039",
+        "total_deaths": "17,127",
+        "new_deaths": "+604",
+        "total_recovered": "24,392",
+        "active": "94,067",
+        "serious": "3,792",
+        "total_tested": "755,445"
+    },
+    "germany": {
+        "total": "105,604",
+        "new": "+2,229",
+        "total_deaths": "1,905",
+        "new_deaths": "+95",
+        "total_recovered": "36,081",
+        "active": "67,618",
+        "serious": "4,895",
+        "total_tested": "918,460"
+    },
+    "france": {
+        "total": "98,010",
+        "new": "",
+        "total_deaths": "8,911",
+        "new_deaths": "",
+        "total_recovered": "17,250",
+        "active": "71,849",
+        "serious": "7,072",
+        "total_tested": "224,254"
+    },
+    "iran": {
+        "total": "62,589",
+        "new": "+2,089",
+        "total_deaths": "3,872",
+        "new_deaths": "+133",
+        "total_recovered": "27,039",
+        "active": "31,678",
+        "serious": "3,987",
+        "total_tested": "211,136"
+    },
+    "uk": {
+        "total": "55,242",
+        "new": "+3,634",
+        "total_deaths": "6,159",
+        "new_deaths": "+786",
+        "total_recovered": "135",
+        "active": "48,948",
+        "serious": "1,559",
+        "total_tested": "266,694"
+    },
+    "turkey": {
+        "total": "34,109",
+        "new": "+3,892",
+        "total_deaths": "725",
+        "new_deaths": "+76",
+        "total_recovered": "1,582",
+        "active": "31,802",
+        "serious": "1,474",
+        "total_tested": "228,868"
+    },
+    "switzerland": {
+        "total": "22,253",
+        "new": "+596",
+        "total_deaths": "821",
+        "new_deaths": "+56",
+        "total_recovered": "8,704",
+        "active": "12,728",
+        "serious": "391",
+        "total_tested": "167,429"
+    },
+    "belgium": {
+        "total": "22,194",
+        "new": "+1,380",
+        "total_deaths": "2,035",
+        "new_deaths": "+403",
+        "total_recovered": "4,157",
+        "active": "16,002",
+        "serious": "1,260",
+        "total_tested": "80,512"
+    },
+    "netherlands": {
+        "total": "19,580",
+        "new": "+777",
+        "total_deaths": "2,101",
+        "new_deaths": "+234",
+        "total_recovered": "250",
+        "active": "17,229",
+        "serious": "1,424",
+        "total_tested": "86,589"
+    },
+    "canada": {
+        "total": "17,063",
+        "new": "+396",
+        "total_deaths": "345",
+        "new_deaths": "+22",
+        "total_recovered": "3,796",
+        "active": "12,922",
+        "serious": "426",
+        "total_tested": "330,901"
+    },
+    "austria": {
+        "total": "12,613",
+        "new": "+316",
+        "total_deaths": "243",
+        "new_deaths": "+23",
+        "total_recovered": "4,046",
+        "active": "8,324",
+        "serious": "243",
+        "total_tested": "115,235"
+    },
+    "portugal": {
+        "total": "12,442",
+        "new": "+712",
+        "total_deaths": "345",
+        "new_deaths": "+34",
+        "total_recovered": "184",
+        "active": "11,913",
+        "serious": "271",
+        "total_tested": "121,256"
+    },
+    "brazil": {
+        "total": "12,377",
+        "new": "+194",
+        "total_deaths": "582",
+        "new_deaths": "+18",
+        "total_recovered": "127",
+        "active": "11,668",
+        "serious": "296",
+        "total_tested": "54,824"
+    },
+    "s. korea": {
+        "total": "10,331",
+        "new": "+47",
+        "total_deaths": "192",
+        "new_deaths": "+6",
+        "total_recovered": "6,694",
+        "active": "3,445",
+        "serious": "55",
+        "total_tested": "461,233"
+    },
+    "israel": {
+        "total": "9,006",
+        "new": "+102",
+        "total_deaths": "61",
+        "new_deaths": "+4",
+        "total_recovered": "683",
+        "active": "8,262",
+        "serious": "153",
+        "total_tested": "109,724"
+    },
+    "sweden": {
+        "total": "7,693",
+        "new": "+487",
+        "total_deaths": "591",
+        "new_deaths": "+114",
+        "total_recovered": "205",
+        "active": "6,897",
+        "serious": "640",
+        "total_tested": "54,700"
+    },
+    "russia": {
+        "total": "7,497",
+        "new": "+1,154",
+        "total_deaths": "58",
+        "new_deaths": "+11",
+        "total_recovered": "494",
+        "active": "6,945",
+        "serious": "8",
+        "total_tested": "795,000"
+    },
+    "australia": {
+        "total": "5,919",
+        "new": "+24",
+        "total_deaths": "48",
+        "new_deaths": "+3",
+        "total_recovered": "2,547",
+        "active": "3,324",
+        "serious": "93",
+        "total_tested": "310,700"
+    },
+    "norway": {
+        "total": "5,869",
+        "new": "+4",
+        "total_deaths": "89",
+        "new_deaths": "+13",
+        "total_recovered": "32",
+        "active": "5,748",
+        "serious": "83",
+        "total_tested": "113,896"
+    },
+    "ireland": {
+        "total": "5,709",
+        "new": "+345",
+        "total_deaths": "210",
+        "new_deaths": "+36",
+        "total_recovered": "25",
+        "active": "5,474",
+        "serious": "165",
+        "total_tested": "30,213"
+    },
+    "india": {
+        "total": "5,311",
+        "new": "+533",
+        "total_deaths": "150",
+        "new_deaths": "+14",
+        "total_recovered": "421",
+        "active": "4,740",
+        "serious": "",
+        "total_tested": "140,293"
+    },
+    "chile": {
+        "total": "5,116",
+        "new": "+301",
+        "total_deaths": "43",
+        "new_deaths": "+6",
+        "total_recovered": "898",
+        "active": "4,175",
+        "serious": "337",
+        "total_tested": "57,122"
+    },
+    "denmark": {
+        "total": "5,071",
+        "new": "+390",
+        "total_deaths": "203",
+        "new_deaths": "+16",
+        "total_recovered": "1,491",
+        "active": "3,377",
+        "serious": "127",
+        "total_tested": "52,936"
+    },
+    "czechia": {
+        "total": "4,944",
+        "new": "+122",
+        "total_deaths": "88",
+        "new_deaths": "+10",
+        "total_recovered": "172",
+        "active": "4,684",
+        "serious": "86",
+        "total_tested": "91,247"
+    },
+    "poland": {
+        "total": "4,848",
+        "new": "+435",
+        "total_deaths": "129",
+        "new_deaths": "+22",
+        "total_recovered": "191",
+        "active": "4,528",
+        "serious": "50",
+        "total_tested": "92,215"
+    },
+    "romania": {
+        "total": "4,417",
+        "new": "+360",
+        "total_deaths": "197",
+        "new_deaths": "+21",
+        "total_recovered": "460",
+        "active": "3,760",
+        "serious": "274",
+        "total_tested": "43,578"
+    },
+    "pakistan": {
+        "total": "4,009",
+        "new": "+243",
+        "total_deaths": "56",
+        "new_deaths": "+3",
+        "total_recovered": "429",
+        "active": "3,524",
+        "serious": "28",
+        "total_tested": "39,183"
+    },
+    "malaysia": {
+        "total": "3,963",
+        "new": "+170",
+        "total_deaths": "63",
+        "new_deaths": "+1",
+        "total_recovered": "1,321",
+        "active": "2,579",
+        "serious": "92",
+        "total_tested": "55,566"
+    },
+    "japan": {
+        "total": "3,906",
+        "new": "",
+        "total_deaths": "92",
+        "new_deaths": "",
+        "total_recovered": "592",
+        "active": "3,222",
+        "serious": "79",
+        "total_tested": "46,172"
+    },
+    "philippines": {
+        "total": "3,764",
+        "new": "+104",
+        "total_deaths": "177",
+        "new_deaths": "+14",
+        "total_recovered": "84",
+        "active": "3,503",
+        "serious": "1",
+        "total_tested": "22,958"
+    },
+    "ecuador": {
+        "total": "3,747",
+        "new": "",
+        "total_deaths": "191",
+        "new_deaths": "",
+        "total_recovered": "100",
+        "active": "3,456",
+        "serious": "156",
+        "total_tested": "13,039"
+    },
+    "luxembourg": {
+        "total": "2,970",
+        "new": "+127",
+        "total_deaths": "44",
+        "new_deaths": "+3",
+        "total_recovered": "500",
+        "active": "2,426",
+        "serious": "35",
+        "total_tested": "25,702"
+    },
+    "saudi arabia": {
+        "total": "2,795",
+        "new": "+190",
+        "total_deaths": "41",
+        "new_deaths": "+3",
+        "total_recovered": "615",
+        "active": "2,139",
+        "serious": "41",
+        "total_tested": ""
+    },
+    "indonesia": {
+        "total": "2,738",
+        "new": "+247",
+        "total_deaths": "221",
+        "new_deaths": "+12",
+        "total_recovered": "204",
+        "active": "2,313",
+        "serious": "",
+        "total_tested": "14,354"
+    },
+    "peru": {
+        "total": "2,561",
+        "new": "",
+        "total_deaths": "92",
+        "new_deaths": "",
+        "total_recovered": "997",
+        "active": "1,472",
+        "serious": "89",
+        "total_tested": "20,414"
+    },
+    "serbia": {
+        "total": "2,447",
+        "new": "+247",
+        "total_deaths": "61",
+        "new_deaths": "+3",
+        "total_recovered": "118",
+        "active": "2,268",
+        "serious": "109",
+        "total_tested": "9,626"
+    },
+    "mexico": {
+        "total": "2,439",
+        "new": "+296",
+        "total_deaths": "125",
+        "new_deaths": "+31",
+        "total_recovered": "633",
+        "active": "1,681",
+        "serious": "89",
+        "total_tested": "20,475"
+    },
+    "finland": {
+        "total": "2,308",
+        "new": "+132",
+        "total_deaths": "34",
+        "new_deaths": "+7",
+        "total_recovered": "300",
+        "active": "1,974",
+        "serious": "81",
+        "total_tested": "34,900"
+    },
+    "thailand": {
+        "total": "2,258",
+        "new": "+38",
+        "total_deaths": "27",
+        "new_deaths": "+1",
+        "total_recovered": "888",
+        "active": "1,343",
+        "serious": "61",
+        "total_tested": "71,860"
+    },
+    "panama": {
+        "total": "2,100",
+        "new": "",
+        "total_deaths": "55",
+        "new_deaths": "",
+        "total_recovered": "14",
+        "active": "2,031",
+        "serious": "88",
+        "total_tested": "10,297"
+    },
+    "uae": {
+        "total": "2,076",
+        "new": "",
+        "total_deaths": "11",
+        "new_deaths": "",
+        "total_recovered": "167",
+        "active": "1,898",
+        "serious": "1",
+        "total_tested": "220,000"
+    },
+    "qatar": {
+        "total": "2,057",
+        "new": "+225",
+        "total_deaths": "6",
+        "new_deaths": "+2",
+        "total_recovered": "150",
+        "active": "1,901",
+        "serious": "37",
+        "total_tested": "41,818"
+    },
+    "dominican republic": {
+        "total": "1,956",
+        "new": "+128",
+        "total_deaths": "98",
+        "new_deaths": "+12",
+        "total_recovered": "33",
+        "active": "1,825",
+        "serious": "147",
+        "total_tested": "4,542"
+    },
+    "greece": {
+        "total": "1,832",
+        "new": "+77",
+        "total_deaths": "81",
+        "new_deaths": "+2",
+        "total_recovered": "269",
+        "active": "1,482",
+        "serious": "90",
+        "total_tested": "26,193"
+    },
+    "south africa": {
+        "total": "1,749",
+        "new": "+63",
+        "total_deaths": "13",
+        "new_deaths": "+1",
+        "total_recovered": "95",
+        "active": "1,641",
+        "serious": "7",
+        "total_tested": "58,098"
+    },
+    "argentina": {
+        "total": "1,628",
+        "new": "",
+        "total_deaths": "56",
+        "new_deaths": "+3",
+        "total_recovered": "338",
+        "active": "1,234",
+        "serious": "96",
+        "total_tested": "11,778"
+    },
+    "iceland": {
+        "total": "1,586",
+        "new": "+24",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "559",
+        "active": "1,021",
+        "serious": "11",
+        "total_tested": "28,991"
+    },
+    "colombia": {
+        "total": "1,579",
+        "new": "",
+        "total_deaths": "46",
+        "new_deaths": "",
+        "total_recovered": "88",
+        "active": "1,445",
+        "serious": "76",
+        "total_tested": "27,685"
+    },
+    "singapore": {
+        "total": "1,481",
+        "new": "+106",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "377",
+        "active": "1,098",
+        "serious": "29",
+        "total_tested": "65,000"
+    },
+    "algeria": {
+        "total": "1,468",
+        "new": "+45",
+        "total_deaths": "193",
+        "new_deaths": "+20",
+        "total_recovered": "113",
+        "active": "1,162",
+        "serious": "46",
+        "total_tested": "3,359"
+    },
+    "ukraine": {
+        "total": "1,462",
+        "new": "+143",
+        "total_deaths": "45",
+        "new_deaths": "+7",
+        "total_recovered": "28",
+        "active": "1,389",
+        "serious": "16",
+        "total_tested": "6,385"
+    },
+    "egypt": {
+        "total": "1,322",
+        "new": "",
+        "total_deaths": "85",
+        "new_deaths": "",
+        "total_recovered": "259",
+        "active": "978",
+        "serious": "",
+        "total_tested": "25,000"
+    },
+    "croatia": {
+        "total": "1,282",
+        "new": "+60",
+        "total_deaths": "18",
+        "new_deaths": "+2",
+        "total_recovered": "167",
+        "active": "1,097",
+        "serious": "35",
+        "total_tested": "12,322"
+    },
+    "new zealand": {
+        "total": "1,160",
+        "new": "+54",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "241",
+        "active": "918",
+        "serious": "14",
+        "total_tested": "42,826"
+    },
+    "estonia": {
+        "total": "1,149",
+        "new": "+41",
+        "total_deaths": "21",
+        "new_deaths": "+2",
+        "total_recovered": "69",
+        "active": "1,059",
+        "serious": "12",
+        "total_tested": "23,546"
+    },
+    "morocco": {
+        "total": "1,141",
+        "new": "+21",
+        "total_deaths": "83",
+        "new_deaths": "+3",
+        "total_recovered": "88",
+        "active": "970",
+        "serious": "1",
+        "total_tested": "5,272"
+    },
+    "iraq": {
+        "total": "1,122",
+        "new": "+91",
+        "total_deaths": "65",
+        "new_deaths": "+1",
+        "total_recovered": "373",
+        "active": "684",
+        "serious": "",
+        "total_tested": "26,331"
+    },
+    "slovenia": {
+        "total": "1,059",
+        "new": "+38",
+        "total_deaths": "36",
+        "new_deaths": "+6",
+        "total_recovered": "102",
+        "active": "921",
+        "serious": "30",
+        "total_tested": "29,455"
+    },
+    "moldova": {
+        "total": "1,056",
+        "new": "+91",
+        "total_deaths": "22",
+        "new_deaths": "+3",
+        "total_recovered": "40",
+        "active": "994",
+        "serious": "80",
+        "total_tested": "5,108"
+    },
+    "hong kong": {
+        "total": "936",
+        "new": "+21",
+        "total_deaths": "4",
+        "new_deaths": "",
+        "total_recovered": "236",
+        "active": "696",
+        "serious": "12",
+        "total_tested": "96,709"
+    },
+    "lithuania": {
+        "total": "880",
+        "new": "+37",
+        "total_deaths": "15",
+        "new_deaths": "",
+        "total_recovered": "8",
+        "active": "857",
+        "serious": "11",
+        "total_tested": "27,807"
+    },
+    "belarus": {
+        "total": "861",
+        "new": "+161",
+        "total_deaths": "13",
+        "new_deaths": "",
+        "total_recovered": "54",
+        "active": "794",
+        "serious": "31",
+        "total_tested": "43,000"
+    },
+    "armenia": {
+        "total": "853",
+        "new": "+20",
+        "total_deaths": "8",
+        "new_deaths": "",
+        "total_recovered": "87",
+        "active": "758",
+        "serious": "30",
+        "total_tested": "5,140"
+    },
+    "hungary": {
+        "total": "817",
+        "new": "+73",
+        "total_deaths": "47",
+        "new_deaths": "+9",
+        "total_recovered": "71",
+        "active": "699",
+        "serious": "17",
+        "total_tested": "23,746"
+    },
+    "bahrain": {
+        "total": "811",
+        "new": "+55",
+        "total_deaths": "4",
+        "new_deaths": "",
+        "total_recovered": "458",
+        "active": "349",
+        "serious": "4",
+        "total_tested": "47,684"
+    },
+    "bosnia and herzegovina": {
+        "total": "764",
+        "new": "+90",
+        "total_deaths": "33",
+        "new_deaths": "+4",
+        "total_recovered": "68",
+        "active": "663",
+        "serious": "4",
+        "total_tested": "5,934"
+    },
+    "kuwait": {
+        "total": "743",
+        "new": "+78",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "105",
+        "active": "637",
+        "serious": "23",
+        "total_tested": ""
+    },
+    "azerbaijan": {
+        "total": "717",
+        "new": "+76",
+        "total_deaths": "8",
+        "new_deaths": "+1",
+        "total_recovered": "44",
+        "active": "665",
+        "serious": "23",
+        "total_tested": "53,300"
+    },
+    "diamond princess": {
+        "total": "712",
+        "new": "",
+        "total_deaths": "11",
+        "new_deaths": "",
+        "total_recovered": "619",
+        "active": "82",
+        "serious": "10",
+        "total_tested": ""
+    },
+    "kazakhstan": {
+        "total": "685",
+        "new": "+23",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "50",
+        "active": "629",
+        "serious": "16",
+        "total_tested": "54,767"
+    },
+    "cameroon": {
+        "total": "658",
+        "new": "",
+        "total_deaths": "9",
+        "new_deaths": "",
+        "total_recovered": "17",
+        "active": "632",
+        "serious": "",
+        "total_tested": ""
+    },
+    "north macedonia": {
+        "total": "599",
+        "new": "+29",
+        "total_deaths": "26",
+        "new_deaths": "+3",
+        "total_recovered": "30",
+        "active": "543",
+        "serious": "15",
+        "total_tested": "5,879"
+    },
+    "tunisia": {
+        "total": "596",
+        "new": "",
+        "total_deaths": "22",
+        "new_deaths": "",
+        "total_recovered": "25",
+        "active": "549",
+        "serious": "39",
+        "total_tested": "7,725"
+    },
+    "slovakia": {
+        "total": "581",
+        "new": "+47",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "13",
+        "active": "566",
+        "serious": "3",
+        "total_tested": "17,639"
+    },
+    "bulgaria": {
+        "total": "577",
+        "new": "+28",
+        "total_deaths": "23",
+        "new_deaths": "+1",
+        "total_recovered": "42",
+        "active": "512",
+        "serious": "21",
+        "total_tested": "15,899"
+    },
+    "lebanon": {
+        "total": "548",
+        "new": "+7",
+        "total_deaths": "19",
+        "new_deaths": "",
+        "total_recovered": "62",
+        "active": "467",
+        "serious": "29",
+        "total_tested": "10,221"
+    },
+    "latvia": {
+        "total": "548",
+        "new": "+6",
+        "total_deaths": "2",
+        "new_deaths": "+1",
+        "total_recovered": "16",
+        "active": "530",
+        "serious": "5",
+        "total_tested": "22,575"
+    },
+    "andorra": {
+        "total": "525",
+        "new": "",
+        "total_deaths": "21",
+        "new_deaths": "",
+        "total_recovered": "31",
+        "active": "473",
+        "serious": "12",
+        "total_tested": ""
+    },
+    "uzbekistan": {
+        "total": "504",
+        "new": "+47",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "30",
+        "active": "472",
+        "serious": "8",
+        "total_tested": ""
+    },
+    "cyprus": {
+        "total": "494",
+        "new": "+29",
+        "total_deaths": "9",
+        "new_deaths": "",
+        "total_recovered": "47",
+        "active": "438",
+        "serious": "13",
+        "total_tested": "13,017"
+    },
+    "costa rica": {
+        "total": "467",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "18",
+        "active": "447",
+        "serious": "14",
+        "total_tested": "5,363"
+    },
+    "afghanistan": {
+        "total": "423",
+        "new": "+56",
+        "total_deaths": "14",
+        "new_deaths": "+3",
+        "total_recovered": "18",
+        "active": "391",
+        "serious": "",
+        "total_tested": ""
+    },
+    "uruguay": {
+        "total": "415",
+        "new": "",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "123",
+        "active": "286",
+        "serious": "14",
+        "total_tested": "5,385"
+    },
+    "cuba": {
+        "total": "396",
+        "new": "+46",
+        "total_deaths": "11",
+        "new_deaths": "+2",
+        "total_recovered": "27",
+        "active": "358",
+        "serious": "12",
+        "total_tested": "7,054"
+    },
+    "albania": {
+        "total": "383",
+        "new": "+6",
+        "total_deaths": "22",
+        "new_deaths": "+1",
+        "total_recovered": "131",
+        "active": "230",
+        "serious": "7",
+        "total_tested": "2,753"
+    },
+    "taiwan": {
+        "total": "376",
+        "new": "+3",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "61",
+        "active": "310",
+        "serious": "",
+        "total_tested": "39,011"
+    },
+    "oman": {
+        "total": "371",
+        "new": "+40",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "67",
+        "active": "302",
+        "serious": "3",
+        "total_tested": ""
+    },
+    "burkina faso": {
+        "total": "364",
+        "new": "",
+        "total_deaths": "18",
+        "new_deaths": "",
+        "total_recovered": "108",
+        "active": "238",
+        "serious": "",
+        "total_tested": ""
+    },
+    "jordan": {
+        "total": "353",
+        "new": "+4",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "138",
+        "active": "209",
+        "serious": "5",
+        "total_tested": "17,000"
+    },
+    "r\u00e9union": {
+        "total": "349",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "40",
+        "active": "309",
+        "serious": "4",
+        "total_tested": ""
+    },
+    "channel islands": {
+        "total": "335",
+        "new": "+12",
+        "total_deaths": "7",
+        "new_deaths": "",
+        "total_recovered": "34",
+        "active": "294",
+        "serious": "",
+        "total_tested": "1,157"
+    },
+    "ivory coast": {
+        "total": "323",
+        "new": "",
+        "total_deaths": "3",
+        "new_deaths": "",
+        "total_recovered": "41",
+        "active": "279",
+        "serious": "",
+        "total_tested": ""
+    },
+    "honduras": {
+        "total": "305",
+        "new": "+7",
+        "total_deaths": "22",
+        "new_deaths": "",
+        "total_recovered": "6",
+        "active": "277",
+        "serious": "10",
+        "total_tested": ""
+    },
+    "malta": {
+        "total": "293",
+        "new": "+52",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "288",
+        "serious": "4",
+        "total_tested": "10,923"
+    },
+    "ghana": {
+        "total": "287",
+        "new": "+73",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "31",
+        "active": "251",
+        "serious": "2",
+        "total_tested": ""
+    },
+    "san marino": {
+        "total": "277",
+        "new": "",
+        "total_deaths": "32",
+        "new_deaths": "",
+        "total_recovered": "35",
+        "active": "210",
+        "serious": "14",
+        "total_tested": "586"
+    },
+    "mauritius": {
+        "total": "268",
+        "new": "+24",
+        "total_deaths": "7",
+        "new_deaths": "",
+        "total_recovered": "8",
+        "active": "253",
+        "serious": "3",
+        "total_tested": "4,913"
+    },
+    "palestine": {
+        "total": "261",
+        "new": "+7",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "42",
+        "active": "218",
+        "serious": "",
+        "total_tested": "15,140"
+    },
+    "niger": {
+        "total": "253",
+        "new": "",
+        "total_deaths": "10",
+        "new_deaths": "",
+        "total_recovered": "26",
+        "active": "217",
+        "serious": "",
+        "total_tested": "4,081"
+    },
+    "vietnam": {
+        "total": "249",
+        "new": "+4",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "123",
+        "active": "126",
+        "serious": "8",
+        "total_tested": "106,399"
+    },
+    "montenegro": {
+        "total": "241",
+        "new": "+8",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "235",
+        "serious": "7",
+        "total_tested": "1,722"
+    },
+    "nigeria": {
+        "total": "238",
+        "new": "",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "35",
+        "active": "198",
+        "serious": "2",
+        "total_tested": "5,000"
+    },
+    "senegal": {
+        "total": "237",
+        "new": "+11",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "105",
+        "active": "130",
+        "serious": "1",
+        "total_tested": ""
+    },
+    "kyrgyzstan": {
+        "total": "228",
+        "new": "+12",
+        "total_deaths": "4",
+        "new_deaths": "",
+        "total_recovered": "33",
+        "active": "191",
+        "serious": "5",
+        "total_tested": "9,618"
+    },
+    "georgia": {
+        "total": "195",
+        "new": "+7",
+        "total_deaths": "3",
+        "new_deaths": "+1",
+        "total_recovered": "46",
+        "active": "146",
+        "serious": "6",
+        "total_tested": "2,762"
+    },
+    "bolivia": {
+        "total": "194",
+        "new": "+11",
+        "total_deaths": "14",
+        "new_deaths": "+3",
+        "total_recovered": "2",
+        "active": "178",
+        "serious": "3",
+        "total_tested": "591"
+    },
+    "sri lanka": {
+        "total": "185",
+        "new": "+7",
+        "total_deaths": "6",
+        "new_deaths": "+1",
+        "total_recovered": "42",
+        "active": "137",
+        "serious": "5",
+        "total_tested": "3,248"
+    },
+    "faeroe islands": {
+        "total": "184",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "120",
+        "active": "64",
+        "serious": "2",
+        "total_tested": "5,035"
+    },
+    "kenya": {
+        "total": "172",
+        "new": "+14",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "7",
+        "active": "159",
+        "serious": "2",
+        "total_tested": "4,973"
+    },
+    "venezuela": {
+        "total": "165",
+        "new": "",
+        "total_deaths": "7",
+        "new_deaths": "",
+        "total_recovered": "65",
+        "active": "93",
+        "serious": "6",
+        "total_tested": "1,779"
+    },
+    "bangladesh": {
+        "total": "164",
+        "new": "+41",
+        "total_deaths": "17",
+        "new_deaths": "+5",
+        "total_recovered": "33",
+        "active": "114",
+        "serious": "1",
+        "total_tested": "4,289"
+    },
+    "mayotte": {
+        "total": "164",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "15",
+        "active": "147",
+        "serious": "3",
+        "total_tested": "479"
+    },
+    "drc": {
+        "total": "161",
+        "new": "",
+        "total_deaths": "18",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "138",
+        "serious": "",
+        "total_tested": ""
+    },
+    "martinique": {
+        "total": "151",
+        "new": "",
+        "total_deaths": "4",
+        "new_deaths": "",
+        "total_recovered": "50",
+        "active": "97",
+        "serious": "20",
+        "total_tested": ""
+    },
+    "isle of man": {
+        "total": "150",
+        "new": "+11",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "73",
+        "active": "76",
+        "serious": "6",
+        "total_tested": "1,669"
+    },
+    "guadeloupe": {
+        "total": "139",
+        "new": "",
+        "total_deaths": "7",
+        "new_deaths": "",
+        "total_recovered": "31",
+        "active": "101",
+        "serious": "14",
+        "total_tested": ""
+    },
+    "brunei ": {
+        "total": "135",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "85",
+        "active": "49",
+        "serious": "3",
+        "total_tested": "8,845"
+    },
+    "guinea": {
+        "total": "128",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "123",
+        "serious": "",
+        "total_tested": ""
+    },
+    "paraguay": {
+        "total": "115",
+        "new": "+2",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "15",
+        "active": "95",
+        "serious": "1",
+        "total_tested": "2,039"
+    },
+    "cambodia": {
+        "total": "115",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "58",
+        "active": "57",
+        "serious": "1",
+        "total_tested": "5,768"
+    },
+    "gibraltar": {
+        "total": "113",
+        "new": "+4",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "60",
+        "active": "53",
+        "serious": "",
+        "total_tested": "1,440"
+    },
+    "trinidad and tobago": {
+        "total": "106",
+        "new": "+1",
+        "total_deaths": "8",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "97",
+        "serious": "",
+        "total_tested": "870"
+    },
+    "rwanda": {
+        "total": "105",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "101",
+        "serious": "",
+        "total_tested": ""
+    },
+    "djibouti": {
+        "total": "90",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "9",
+        "active": "81",
+        "serious": "",
+        "total_tested": ""
+    },
+    "madagascar": {
+        "total": "82",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "80",
+        "serious": "6",
+        "total_tested": ""
+    },
+    "monaco": {
+        "total": "79",
+        "new": "+2",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "74",
+        "serious": "4",
+        "total_tested": ""
+    },
+    "el salvador": {
+        "total": "78",
+        "new": "+9",
+        "total_deaths": "4",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "69",
+        "serious": "4",
+        "total_tested": ""
+    },
+    "guatemala": {
+        "total": "77",
+        "new": "+7",
+        "total_deaths": "3",
+        "new_deaths": "",
+        "total_recovered": "17",
+        "active": "57",
+        "serious": "3",
+        "total_tested": "1,134"
+    },
+    "liechtenstein": {
+        "total": "77",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "55",
+        "active": "21",
+        "serious": "",
+        "total_tested": "900"
+    },
+    "french guiana": {
+        "total": "72",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "34",
+        "active": "38",
+        "serious": "1",
+        "total_tested": ""
+    },
+    "aruba": {
+        "total": "71",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "69",
+        "serious": "",
+        "total_tested": "910"
+    },
+    "togo": {
+        "total": "65",
+        "new": "+7",
+        "total_deaths": "3",
+        "new_deaths": "",
+        "total_recovered": "23",
+        "active": "39",
+        "serious": "",
+        "total_tested": "1,617"
+    },
+    "barbados": {
+        "total": "60",
+        "new": "",
+        "total_deaths": "3",
+        "new_deaths": "+1",
+        "total_recovered": "6",
+        "active": "51",
+        "serious": "4",
+        "total_tested": "557"
+    },
+    "jamaica": {
+        "total": "59",
+        "new": "",
+        "total_deaths": "3",
+        "new_deaths": "",
+        "total_recovered": "8",
+        "active": "48",
+        "serious": "",
+        "total_tested": "540"
+    },
+    "mali": {
+        "total": "56",
+        "new": "+9",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "12",
+        "active": "39",
+        "serious": "",
+        "total_tested": ""
+    },
+    "ethiopia": {
+        "total": "52",
+        "new": "+8",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "46",
+        "serious": "1",
+        "total_tested": "2,271"
+    },
+    "uganda": {
+        "total": "52",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "52",
+        "serious": "",
+        "total_tested": "3,160"
+    },
+    "congo": {
+        "total": "45",
+        "new": "",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "38",
+        "serious": "",
+        "total_tested": ""
+    },
+    "macao": {
+        "total": "44",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "10",
+        "active": "34",
+        "serious": "1",
+        "total_tested": ""
+    },
+    "french polynesia": {
+        "total": "42",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "42",
+        "serious": "",
+        "total_tested": "618"
+    },
+    "bermuda": {
+        "total": "39",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "17",
+        "active": "20",
+        "serious": "",
+        "total_tested": "306"
+    },
+    "cayman islands": {
+        "total": "39",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "37",
+        "serious": "",
+        "total_tested": "365"
+    },
+    "zambia": {
+        "total": "39",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "7",
+        "active": "31",
+        "serious": "",
+        "total_tested": "619"
+    },
+    "sint maarten": {
+        "total": "37",
+        "new": "",
+        "total_deaths": "6",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "30",
+        "serious": "",
+        "total_tested": "105"
+    },
+    "bahamas": {
+        "total": "33",
+        "new": "",
+        "total_deaths": "5",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "23",
+        "serious": "1",
+        "total_tested": ""
+    },
+    "guinea-bissau": {
+        "total": "33",
+        "new": "+15",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "33",
+        "serious": "",
+        "total_tested": ""
+    },
+    "saint martin": {
+        "total": "32",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "7",
+        "active": "23",
+        "serious": "6",
+        "total_tested": ""
+    },
+    "guyana": {
+        "total": "31",
+        "new": "",
+        "total_deaths": "5",
+        "new_deaths": "+1",
+        "total_recovered": "8",
+        "active": "18",
+        "serious": "8",
+        "total_tested": "115"
+    },
+    "eritrea": {
+        "total": "31",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "31",
+        "serious": "",
+        "total_tested": ""
+    },
+    "gabon": {
+        "total": "30",
+        "new": "+6",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "28",
+        "serious": "",
+        "total_tested": ""
+    },
+    "benin": {
+        "total": "26",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "20",
+        "serious": "",
+        "total_tested": ""
+    },
+    "haiti": {
+        "total": "25",
+        "new": "+1",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "24",
+        "serious": "",
+        "total_tested": "257"
+    },
+    "tanzania": {
+        "total": "24",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "5",
+        "active": "18",
+        "serious": "",
+        "total_tested": ""
+    },
+    "myanmar": {
+        "total": "22",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "21",
+        "serious": "",
+        "total_tested": "1,246"
+    },
+    "syria": {
+        "total": "19",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "15",
+        "serious": "",
+        "total_tested": ""
+    },
+    "libya": {
+        "total": "19",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "17",
+        "serious": "",
+        "total_tested": "326"
+    },
+    "maldives": {
+        "total": "19",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "13",
+        "active": "6",
+        "serious": "",
+        "total_tested": ""
+    },
+    "new caledonia": {
+        "total": "18",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "17",
+        "serious": "",
+        "total_tested": "2,135"
+    },
+    "angola": {
+        "total": "16",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "12",
+        "serious": "",
+        "total_tested": ""
+    },
+    "equatorial guinea": {
+        "total": "16",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "3",
+        "active": "13",
+        "serious": "",
+        "total_tested": "854"
+    },
+    "namibia": {
+        "total": "16",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "3",
+        "active": "13",
+        "serious": "",
+        "total_tested": "362"
+    },
+    "antigua and barbuda": {
+        "total": "15",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "15",
+        "serious": "1",
+        "total_tested": "40"
+    },
+    "dominica": {
+        "total": "15",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "14",
+        "serious": "",
+        "total_tested": "293"
+    },
+    "fiji": {
+        "total": "15",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "15",
+        "serious": "",
+        "total_tested": ""
+    },
+    "mongolia": {
+        "total": "15",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "11",
+        "serious": "",
+        "total_tested": ""
+    },
+    "liberia": {
+        "total": "14",
+        "new": "",
+        "total_deaths": "3",
+        "new_deaths": "",
+        "total_recovered": "3",
+        "active": "8",
+        "serious": "",
+        "total_tested": ""
+    },
+    "sudan": {
+        "total": "14",
+        "new": "+2",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "10",
+        "serious": "",
+        "total_tested": ""
+    },
+    "laos": {
+        "total": "14",
+        "new": "+2",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "14",
+        "serious": "",
+        "total_tested": "765"
+    },
+    "saint lucia": {
+        "total": "14",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "13",
+        "serious": "",
+        "total_tested": ""
+    },
+    "cura\u00e7ao": {
+        "total": "13",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "7",
+        "active": "5",
+        "serious": "",
+        "total_tested": ""
+    },
+    "grenada": {
+        "total": "12",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "12",
+        "serious": "2",
+        "total_tested": "45"
+    },
+    "greenland": {
+        "total": "11",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "10",
+        "active": "1",
+        "serious": "",
+        "total_tested": "752"
+    },
+    "saint kitts and nevis": {
+        "total": "11",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "11",
+        "serious": "",
+        "total_tested": "183"
+    },
+    "seychelles": {
+        "total": "11",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "11",
+        "serious": "",
+        "total_tested": ""
+    },
+    "suriname": {
+        "total": "10",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "9",
+        "serious": "",
+        "total_tested": ""
+    },
+    "zimbabwe": {
+        "total": "10",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "9",
+        "serious": "",
+        "total_tested": "316"
+    },
+    "chad": {
+        "total": "10",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "8",
+        "serious": "",
+        "total_tested": ""
+    },
+    "mozambique": {
+        "total": "10",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "9",
+        "serious": "",
+        "total_tested": "363"
+    },
+    "eswatini": {
+        "total": "10",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "4",
+        "active": "6",
+        "serious": "",
+        "total_tested": ""
+    },
+    "ms zaandam": {
+        "total": "9",
+        "new": "",
+        "total_deaths": "2",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "7",
+        "serious": "",
+        "total_tested": ""
+    },
+    "nepal": {
+        "total": "9",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "8",
+        "serious": "",
+        "total_tested": "1,656"
+    },
+    "malawi": {
+        "total": "8",
+        "new": "+3",
+        "total_deaths": "1",
+        "new_deaths": "+1",
+        "total_recovered": "",
+        "active": "7",
+        "serious": "1",
+        "total_tested": ""
+    },
+    "turks and caicos": {
+        "total": "8",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "7",
+        "serious": "",
+        "total_tested": "61"
+    },
+    "car": {
+        "total": "8",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "8",
+        "serious": "",
+        "total_tested": ""
+    },
+    "somalia": {
+        "total": "8",
+        "new": "+1",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "7",
+        "serious": "",
+        "total_tested": ""
+    },
+    "belize": {
+        "total": "7",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "6",
+        "serious": "1",
+        "total_tested": "268"
+    },
+    "cabo verde": {
+        "total": "7",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "5",
+        "serious": "",
+        "total_tested": ""
+    },
+    "vatican city": {
+        "total": "7",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "7",
+        "serious": "",
+        "total_tested": ""
+    },
+    "st. vincent grenadines": {
+        "total": "7",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "6",
+        "serious": "",
+        "total_tested": "56"
+    },
+    "botswana": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "5",
+        "serious": "",
+        "total_tested": "1,154"
+    },
+    "mauritania": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "3",
+        "serious": "",
+        "total_tested": "67"
+    },
+    "nicaragua": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "5",
+        "serious": "",
+        "total_tested": ""
+    },
+    "montserrat": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "6",
+        "serious": "",
+        "total_tested": ""
+    },
+    "st. barth": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "1",
+        "active": "5",
+        "serious": "",
+        "total_tested": ""
+    },
+    "sierra leone": {
+        "total": "6",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "6",
+        "serious": "",
+        "total_tested": ""
+    },
+    "bhutan": {
+        "total": "5",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "3",
+        "serious": "",
+        "total_tested": "1,166"
+    },
+    "gambia": {
+        "total": "4",
+        "new": "",
+        "total_deaths": "1",
+        "new_deaths": "",
+        "total_recovered": "2",
+        "active": "1",
+        "serious": "",
+        "total_tested": ""
+    },
+    "sao tome and principe": {
+        "total": "4",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "4",
+        "serious": "",
+        "total_tested": "19"
+    },
+    "western sahara": {
+        "total": "4",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "4",
+        "serious": "",
+        "total_tested": ""
+    },
+    "anguilla": {
+        "total": "3",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "3",
+        "serious": "",
+        "total_tested": ""
+    },
+    "british virgin islands": {
+        "total": "3",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "3",
+        "serious": "",
+        "total_tested": ""
+    },
+    "burundi": {
+        "total": "3",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "3",
+        "serious": "",
+        "total_tested": ""
+    },
+    "caribbean netherlands": {
+        "total": "2",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "2",
+        "serious": "",
+        "total_tested": "10"
+    },
+    "falkland islands": {
+        "total": "2",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "2",
+        "serious": "",
+        "total_tested": ""
+    },
+    "papua new guinea": {
+        "total": "2",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "2",
+        "serious": "",
+        "total_tested": "72"
+    },
+    "saint pierre miquelon": {
+        "total": "1",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "1",
+        "serious": "",
+        "total_tested": ""
+    },
+    "south sudan": {
+        "total": "1",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "1",
+        "serious": "",
+        "total_tested": ""
+    },
+    "timor-leste": {
+        "total": "1",
+        "new": "",
+        "total_deaths": "",
+        "new_deaths": "",
+        "total_recovered": "",
+        "active": "1",
+        "serious": "",
+        "total_tested": ""
+    },
+    "china": {
+        "total": "81,740",
+        "new": "+32",
+        "total_deaths": "3,331",
+        "new_deaths": "",
+        "total_recovered": "77,167",
+        "active": "1,242",
+        "serious": "211",
+        "total_tested": ""
+    }
+}
