@@ -10,7 +10,7 @@ api = Api(app)
 
 api.add_resource(WorldResource,'/total')
 api.add_resource(CountryResource,'/country/<string:name>')
-api.add_resource(AllCountriesResource,'/allcountry')
+api.add_resource(AllCountriesResource,'/world')
 
 
 if __name__ == "__main__":
