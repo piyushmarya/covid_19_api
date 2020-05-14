@@ -1,10 +1,7 @@
+from flask import render_template, make_response
 from flask_restful import Resource
 
 class DocumentationResource(Resource):
     def get(self):
-        return """
-        <h2>Basic Documentation of routes</h2>
-        <p>"http://corona-covid-api.herokuapp.com/total" to get the total patients worldwide</p>.
-        <p>"http://corona-covid-api.herokuapp.com/world" to get the count of all patients country wise</p>
-        <p>"http://corona-covid-api.herokuapp.com/country/<name>" to get the patient count of a particular country</p>
-        """
+        headers = {'Content-Type': 'text/html'}
+        return make_response(render_template('index.html'),200,headers)
