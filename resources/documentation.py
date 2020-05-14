@@ -1,4 +1,4 @@
-from flask_Restful import Resource
+from flask_restful import Resource
 
 class DocumentationResource(Resource):
     def get(self):
